@@ -23,3 +23,6 @@ Standard configuration to prevent accidental commits of build artifacts and larg
 The first phase of development is focused on implementing the Resource Watchdog using eBPF, which will monitor and rate-limit excessive, short-burst system calls characteristic of user-profiling attempts.
 
 We invite collaboration and scrutiny from the security, OS, and privacy communities.
+
+
+Copyright (c) 2025 AASHUTOSH BHAGWAT

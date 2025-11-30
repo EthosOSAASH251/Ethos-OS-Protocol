@@ -72,7 +72,7 @@ I am handling the core code development. We invite the global ethical and securi
 
 ## ⚖️ License and Governance
 
-This project is released under the **GNU General Public License, Version 3 (GPLv3)**. [Link to LICENSE]
+This project is released under the **GNU General Public License, Version 3 (GPLv3)**.
 
 **Founder/Maintainer:** [AASHUTOSH BHAGWAT]
 

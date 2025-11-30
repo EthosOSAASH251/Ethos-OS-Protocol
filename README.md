@@ -14,6 +14,22 @@
 
 This is a free, open-source operating system built from the ground up on the principle of **social responsibility, not profit.** It is a response to the current moral compromise of major tech platforms. The project is protected under the GPLv3 license to ensure this critical technology forever remains **free for all** and can never be weaponized for commercial gain.
 
+
+### 📢 Founder's Call to Action & Personal Commitment
+
+This project is initiated by a simple, 19-year-old individual who believes deeply in the necessity of creating a safe digital world for the future, a choice tech giants failed to make decades ago.
+
+**My Vision:** I envision a global, voluntary separation of digital spaces—one optimized for commercial gain, and one built on ethical integrity. ETHOS OS is the foundation of that ethical space, offering a sanctuary by choice.
+
+**The Reality:** The creation of an OS with kernel-level AI is a monumental, multi-year task. As an independent creator, I am currently dedicating my time and effort to building the core architecture, driven solely by a sense of social responsibility, and **I cannot pay for contributions.**
+
+**Join the Mission:** If you are a developer, security expert, or ethical AI researcher whose vision is aligned with this moral imperative—a vision where technology serves human well-being over profit—I invite you to join this endeavor. We seek collaborators who are inspired by the same idea and vision.
+
+**We seek volunteers who want to build the future, not just profit from the past.**
+
+If you are compelled by this mission and believe your skills can accelerate the creation of this free, ethical OS, please reach out via the secure channel linked below.
+
+**Contact for Collaboration Inquiry:** [ethos.os.projectdev@gmail.com]
 ---
 
 ## 🎯 Target Users and Primary Use Cases
